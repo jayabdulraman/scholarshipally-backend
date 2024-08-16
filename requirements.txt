@@ -64,6 +64,7 @@ pandas==2.2.2
 pillow==10.4.0
 portalocker==2.10.1
 protobuf==5.27.3
+psycopg2-binary==2.9.9
 pydantic==2.8.2
 pydantic_core==2.20.1
 pypdf==4.3.1
