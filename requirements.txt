@@ -15,6 +15,7 @@ dirtyjson==1.0.8
 distro==1.9.0
 dj-database-url==2.2.0
 Django==5.1
+django-cors-headers==4.4.0
 django-filter==24.3
 djangorestframework==3.15.2
 drf-yasg==1.21.7
@@ -23,6 +24,7 @@ fsspec==2024.6.1
 greenlet==3.0.3
 grpcio==1.65.4
 grpcio-tools==1.65.4
+gunicorn==23.0.0
 h11==0.14.0
 h2==4.1.0
 hpack==4.0.0
