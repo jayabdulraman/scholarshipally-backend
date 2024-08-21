@@ -1,6 +1,6 @@
 # scholarshipally-backend
 
-This is the backend that enables data persistence and chat history for [https://github.com/jayabdulraman/scholarshipally-frontend](ally).
+This is the backend that enables data persistence and chat history for [ally](https://github.com/jayabdulraman/scholarshipally-frontend).
 
 ## Built with:
 - Django
