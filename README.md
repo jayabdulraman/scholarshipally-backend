@@ -5,11 +5,11 @@ This is the backend that enables data persistence and chat history for [ally](ht
 ## Built with:
 - Django
 - Django-restframework
-- Postgres database
+- SQlite for dev and Postgres database for prod.
 
 ## Getting Started
 
-- Clone this repo
+- Clone the dev repo.
 - Create a virtualenv and pip install -r requirements.txt
 - Install Qdrant with docker, [see here](https://qdrant.tech/documentation/quickstart/).
 - Add your openai key, qdrant key (optional), and DEVELOPMENT_MODE='True' to .env file
